@@ -33,8 +33,7 @@ Você pode fazer texto em negrito ou itálico.
 Ambos negrito e itálico podem usar tanto um * ou um _ em torno do texto para o estilo. Permite que você combine ambos se necessário.
 
 *Itálico*
-
-**negrito**
+  **negrito**
 
 ###Lista
 
