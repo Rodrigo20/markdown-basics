@@ -1,2 +1,4 @@
-##Markdwn Basic
-[Markdown](http://daringfireball.net/projects/markdown/) allows you to write using an easy-to-read, easy-to-write plain text format, which then converts to valid HTML for viewing on GitHub.
+##Noçoões básicas de Markdwn
+[Markdown](http://daringfireball.net/projects/markdown/) permite que você escreva usando um plano de formato de texto fácil para ler e escrever, que em seguida converte em HTML válido para a visualização no Github.
+
+###Escrita Básica (color #ff0)
