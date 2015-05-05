@@ -44,17 +44,13 @@ Você pode criar lista uma lista não ordenada procedendo os itens da lista ou c
 
 ex: 
 
-*item 1
+* item 1
+* item 2
+* item 3
 
-*item 2
-
-*item 3
-
--item 1
-
--item 2
-
--item 3
+- item 1
+- item 2
+- item 3
 
 ####Listas ordenadas
 
@@ -63,9 +59,7 @@ Você pode criar lista uma lista ordenada procedendo os itens da lista com um nu
 ex: 
 
 1. item 
-
 2. item
-
 3. item 
 
 ####Listas Aninhadas
@@ -74,17 +68,13 @@ Você pode criar uma lista aninhada indicando os itens da lista por dois espaço
 
 ex: 
 
-*item 1
+* item 1
+   * item 2
+   * item 3
 
-  *item 2
-  
-  *item 3
-
--item 1
-
-  -item 2
-  
-  -item 3
+- item 1
+    - item 2
+    - item 3
 
 ###Formatação de Código
 
