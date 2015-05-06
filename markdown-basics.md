@@ -13,7 +13,7 @@ rverhverhvbjerbvierjhbvierbvirebnvfbwretbretbretbbwertbtrebwrtbtr
 
 ####Cabeçalhos
 
-Você pode criar um cabeçalho adicionando um ou mais “#“ símbolos antes do texto de seu cabeçalho.
+Você pode criar um cabeçalho adicionando um ou mais # símbolos antes do texto de seu cabeçalho.
 
 ex:
 
@@ -23,7 +23,7 @@ ex:
 
 ####Bloco de Citação
 
-Você pode indicar o bloco de citação com um “>“
+Você pode indicar o bloco de citação com um >.
 
 >exemplo de citacao
 
